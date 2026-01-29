@@ -14,9 +14,7 @@ body {
     color: #222;
 }
 
-/* =============================
-   Header
-============================= */
+
 header {
     text-align: center;
     padding: 50px 20px;
@@ -33,9 +31,8 @@ header p {
     font-size: 1.2rem;
 }
 
-/* =============================
-   Main y Cards
-============================= */
+
+
 main {
     max-width: 1200px;
     margin: 40px auto;
